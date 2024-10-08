@@ -1,0 +1,50 @@
+body{
+    background-color: #475B63;
+    color: #F3E8EE;
+}
+
+#Head{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25rem;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+}
+
+#Maintitle{
+    text-align: center;
+    
+}
+
+#aboutme{
+    text-align: center;
+    
+}
+
+#aboutmeinfo{
+    text-align: center;
+}
+
+.links{
+    margin-left: 9rem;
+    margin-right: 9rem;
+}
+
+.titles{
+    text-align: center;
+}
+
+.Photos{
+    width: 20rem;
+    margin-bottom: 2rem;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Photos2{
+    width: 30rem;
+}
